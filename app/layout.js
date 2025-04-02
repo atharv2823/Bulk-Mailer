@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Bulk Email Sender",
-  description: "You Can Send Emails In Bulk",
+  description: "You Can Send Emails In Bulk Along with HTML Template ",
 };
 
 export default function RootLayout({ children }) {
